@@ -5,6 +5,6 @@ This is private repo for data science learning
 
 2. [**Python Training**](https://github.com/bhaskoro-muthohar/DataScienceLearning/blob/master/Mencari_Bilangan_Prima_Dengan_3_Pendekatan_Menggunakan_Python.ipynb): Mencari bilangan prima dengan 3 pendekatan kemudian membandingkan performa ke 3 pendekatan tersebut mana yang lebih efisien dalam kecepatan menghitung.
 
-3a. [**Data Analytic Exercise (Analyzing why people quit ther job!)**](https://github.com/bhaskoro-muthohar/DataScienceLearning/blob/master/Analyzing_why_people_quit_ther_job!.ipynb): How we could figure out why employees leave and find how to predict who is going to leave the company. 
+3. a. [**Data Analytic Exercise (Analyzing why people quit ther job!)**](https://github.com/bhaskoro-muthohar/DataScienceLearning/blob/master/Analyzing_why_people_quit_ther_job!.ipynb): How we could figure out why employees leave and find how to predict who is going to leave the company. 
 
-3b. [**Decision Tree Algorithm Exercise (Who will quitting next?)**](https://github.com/bhaskoro-muthohar/DataScienceLearning/blob/master/Who_will_quitting_next%3F.ipynb): So, after analyzing why people quiting we will find out who will leave next.
+3. b. [**Decision Tree Algorithm Exercise (Who will quitting next?)**](https://github.com/bhaskoro-muthohar/DataScienceLearning/blob/master/Who_will_quitting_next%3F.ipynb): So, after analyzing why people quiting we will find out who will leave next.
