@@ -1,5 +1,5 @@
 # DataScienceLearning
-This is private repo for data science learning
+This is a private repo for data science learning
 
 1. [**Pandas Training**](https://nbviewer.jupyter.org/github/bhaskoro-muthohar/DataScienceLearning/blob/Pandas/Pandas%20Practice.ipynb):  I will be using the [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries) from Kaggle! 
 
@@ -7,6 +7,6 @@ This is private repo for data science learning
 
 3. a. [**Data Analytic Exercise (Analyzing why people quit ther job!)**](https://github.com/bhaskoro-muthohar/DataScienceLearning/blob/master/Analyzing_why_people_quit_ther_job!.ipynb): How we could figure out why employees leave and find how to predict who is going to leave the company. 
 
-3. b. [**Decision Tree Algorithm Exercise (Who will quitting next?)**](https://github.com/bhaskoro-muthohar/DataScienceLearning/blob/master/Who_will_quitting_next%3F.ipynb): So, after analyzing why people quiting we will find out who will leave next.
+3. b. [**Decision Tree Algorithm Exercise (Who will quitting next?)**](https://github.com/bhaskoro-muthohar/DataScienceLearning/blob/master/Who_will_quitting_next%3F.ipynb): So, after analyzing why people quitting we will find out who will leave next.
 
-4. [**Data Analytic Exercise (Analyzing Pokemon based on it's Legendary Label)**](): Ongoing.
+4. [**Data Analytic Exercise (Analyzing Pokemon based on it's Legendary Label)**](https://github.com/bhaskoro-muthohar/DataScienceLearning/blob/master/pokemon.ipynb): Ongoing.
